@@ -1,7 +1,5 @@
----
-title: PAGETWO
-layout: template
-filename: PAGETWO.md
---- 
+layout: PAGETWO
+title: "PAGE TITLE"
+permalink: /pagetwo/
 
 # The Hunt
