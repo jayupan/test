@@ -1,5 +1,5 @@
-layout: PAGETWO
-title: "PAGE TITLE"
+layout: page
+title: "PAGETWO"
 permalink: /pagetwo/
 
 # The Hunt
